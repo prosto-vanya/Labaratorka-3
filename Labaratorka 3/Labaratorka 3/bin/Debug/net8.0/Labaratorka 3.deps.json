@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Labaratorka 3/1.0.0": {
+        "runtime": {
+          "Labaratorka 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Labaratorka 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
